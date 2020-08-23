@@ -1,6 +1,6 @@
 # Adding Dynamic Content to the Orchard Core Theme
 
-## Making it East  to Manage Your  Content
+## Making it East to Manage Your Content
 
 # [YouTube Video](https://youtu.be/nZ45j2zuWYU)
 
