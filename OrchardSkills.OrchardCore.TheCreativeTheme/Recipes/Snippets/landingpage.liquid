@@ -61,7 +61,7 @@
           
 
           <a class="portfolio-box" href="{{ project.Project.Image.Paths.first | asset_url }}">
-            <img class="img-fluid" src="{{ project.Project.Image.Paths.first | asset_url }}" alt="{{ project.DisplayText }}">
+            <img class="img-fluid" src="{{ project.Project.ThumbnailImage.Paths.first | asset_url }}" alt="{{ project.DisplayText }}">
             <div class="portfolio-box-caption">
               <div class="project-category text-white-50">
                 Category
